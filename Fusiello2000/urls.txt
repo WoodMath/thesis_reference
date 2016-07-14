@@ -1,1 +1,4 @@
 http://www.diegm.uniud.it/fusiello/demo/rect/
+http://perso.lcpc.fr/tarel.jean-philippe/syntim/paires.html
+http://perso.lcpc.fr/tarel.jean-philippe/syntim/calib.html
+http://perso.lcpc.fr/tarel.jean-philippe/publis/TR-0196.html
